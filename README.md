@@ -13,6 +13,7 @@ So far what I've learned at school:
 - HTML5
 - CSS
 - MySQL
+- Bootstrap basics
 
 
 
