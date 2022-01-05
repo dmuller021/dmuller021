@@ -2,7 +2,7 @@
 
 My name is Dion, I'm currently 23 years old and I have been studying software development for 1,5 years (mainly focussed on web development)
 
-I consider myself a beginner web developer. For now, my main focus is to learn Laravel and make wonderful projects with it. Currently, I'm working on a blog/introduction website for github while learning how to work with Laravel.
+I consider myself a beginner web developer. For now, my main focus is to learn Laravel and make wonderful projects with it. Currently, I'm working on a chatting website on Laravel.
 
 My goal for now is to become a decent full stack developer.
 
