@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dion, I'm currently 23 years old and I have been studying software development for 1,5 years (mainly focussed on web development)
+My name is Dion, I'm currently 24 years old and I have been studying software development for 3 years (mainly focussed on web development)
 
 I consider myself a beginner web developer. My main focus is to develop my skills in Laravel and I'm curious about Flutter, at the moment I have an open project to make a app and that is why I'm picking it up. Although currently, I'm continueing to develop my chat (noid-cord).
 
