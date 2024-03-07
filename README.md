@@ -41,7 +41,7 @@ Github stats:
 Additional info:
 
 - 🔭 I’m currently working on: school project (which is currently on my student account in gitlab) 
-- 🌱 I’m currently learning: TALL stack
+- 🌱 I’m currently learning: TALL stack + docker
 - 💬 Ask me about: PHP, Laravel, Bootstrap and Tailwind
 - 📫 How to reach me: The best way to reach me is by visiting my linkedin page and leave a message https://www.linkedin.com/in/dion-muller-085aaa231/
 - ⚡ Fun fact: I've studied IT management twice (mbo 2 & 3)
