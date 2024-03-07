@@ -6,7 +6,7 @@ I consider myself a beginner web developer. My main focus is to develop my skill
 
 My goal is to become a decent full stack developer and being able to work for a wonderful company.
 
-So far what I've learned at school/internship:
+## So far what I have learned at school/interships:
 
 - C# basics
 - PHP
@@ -28,9 +28,11 @@ So far what I've learned at school/internship:
 - Agile
 - Scrum
 - Documenting
+- WordPress
+- Unit/Integration/e2e testing
+- Working with docker
 
-
-Github stats:
+## Github stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dmuller021&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
@@ -38,7 +40,7 @@ Github stats:
 
 
 
-Additional info:
+## Additional info:
 
 - 🔭 I’m currently working on: school project (which is currently on my student account in gitlab) 
 - 🌱 I’m currently learning: TALL stack + docker
