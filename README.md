@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dion, I'm currently 25 years old and I have been studying software development for 3 years (mainly focussed on web development)
+My name is Dion, I'm currently 26 years old and I have been studying software development for 3 years (mainly focussed on web development)
 
 I consider myself a beginner web developer. My main focus is to develop my skills in Laravel, at the moment I have no projects that I'm working due to my education. 
 
